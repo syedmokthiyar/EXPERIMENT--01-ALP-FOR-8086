@@ -1,10 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+```
 Name :  Syed Mokthiyar S M
 Roll no :212222230156
 Date of experiment : 13.8.2024
-
-
-
+```
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
