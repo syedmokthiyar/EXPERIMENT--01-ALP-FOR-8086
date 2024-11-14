@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXP-01-ALP-FOR-8086
 ```
 Name :  Syed Mokthiyar S M
 Roll no :212222230156
